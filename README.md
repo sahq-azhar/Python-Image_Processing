@@ -15,11 +15,6 @@ This repository contains image processing code. The codes are designed to recogn
 </table>
 
 
-
-
-
-
-
 ----------------------------------------------
 
 #### For a MATLAB version of this refer this 
